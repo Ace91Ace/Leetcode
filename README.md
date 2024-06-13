@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ace91Ace/Leetcode/tree/master/0075-sort-colors) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ace91Ace/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/Ace91Ace/Leetcode/tree/master/3443-maximum-total-reward-using-operations-ii) |
 # Greedy
@@ -14,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ace91Ace/Leetcode/tree/master/0075-sort-colors) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ace91Ace/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Dynamic Programming
 |  |
@@ -23,3 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/Ace91Ace/Leetcode/tree/master/3443-maximum-total-reward-using-operations-ii) |
+# Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ace91Ace/Leetcode/tree/master/0075-sort-colors) |
