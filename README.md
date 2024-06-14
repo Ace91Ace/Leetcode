@@ -7,16 +7,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/Ace91Ace/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ace91Ace/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Ace91Ace/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ace91Ace/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/Ace91Ace/Leetcode/tree/master/3443-maximum-total-reward-using-operations-ii) |
 # Greedy
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Ace91Ace/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ace91Ace/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ace91Ace/Leetcode/tree/master/0075-sort-colors) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Ace91Ace/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ace91Ace/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Dynamic Programming
 |  |
@@ -38,3 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ace91Ace/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+# Counting
+|  |
+| ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Ace91Ace/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
