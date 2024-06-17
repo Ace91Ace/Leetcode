@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ace91Ace/Leetcode/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/Ace91Ace/Leetcode/tree/master/0633-sum-of-square-numbers) |
 # Stack
 |  |
 | ------- |
@@ -67,3 +68,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Ace91Ace/Leetcode/tree/master/0502-ipo) |
+# Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Ace91Ace/Leetcode/tree/master/0633-sum-of-square-numbers) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Ace91Ace/Leetcode/tree/master/0633-sum-of-square-numbers) |
