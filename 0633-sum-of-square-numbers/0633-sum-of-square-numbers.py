@@ -3,11 +3,9 @@ class Solution:
         left = 0
         right = int(sqrt(c))
 
-        if c == 0 or c==2 or c==8 or c == 32  :
-            return True
 
-        while right > left:
-            curr = right**2 + left**2
+        while right >= left:
+            curr = right*right + left*left
             if curr == c:
                 return True
             elif curr > c:
