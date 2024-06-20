@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-most-profit-assigning-work](https://github.com/Ace91Ace/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Ace91Ace/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ace91Ace/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Ace91Ace/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ace91Ace/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/Ace91Ace/Leetcode/tree/master/3443-maximum-total-reward-using-operations-ii) |
 # Greedy
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/Ace91Ace/Leetcode/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/Ace91Ace/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Ace91Ace/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Ace91Ace/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ace91Ace/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Dynamic Programming
 |  |
@@ -83,3 +85,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/Ace91Ace/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/Ace91Ace/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ace91Ace/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Ace91Ace/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
