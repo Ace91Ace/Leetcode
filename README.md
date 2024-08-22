@@ -216,8 +216,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ace91Ace/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/Ace91Ace/Leetcode/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/Ace91Ace/Leetcode/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Ace91Ace/Leetcode/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/Ace91Ace/Leetcode/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Ace91Ace/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Ace91Ace/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
