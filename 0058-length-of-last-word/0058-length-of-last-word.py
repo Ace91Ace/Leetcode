@@ -7,4 +7,4 @@ class Solution:
                 return count
             else:
                 count+=1
-        return count 
+        return count +1
