@@ -6,5 +6,5 @@ class Solution:
             if st[i] == " ":
                 return count
             else:
-                count+=1
-        return count +1
+                count += 1
+        return count + 1
