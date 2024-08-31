@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Ace91Ace/Leetcode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Ace91Ace/Leetcode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Ace91Ace/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0189-rotate-array](https://github.com/Ace91Ace/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ace91Ace/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ace91Ace/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Ace91Ace/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ace91Ace/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Ace91Ace/Leetcode/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/Ace91Ace/Leetcode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ace91Ace/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Ace91Ace/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
@@ -244,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ace91Ace/Leetcode/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/Ace91Ace/Leetcode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/Ace91Ace/Leetcode/tree/master/0326-power-of-three) |
 | [0633-sum-of-square-numbers](https://github.com/Ace91Ace/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/Ace91Ace/Leetcode/tree/master/1013-fibonacci-number) |
