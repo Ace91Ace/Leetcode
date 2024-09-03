@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ace91Ace/Leetcode/tree/master/0054-spiral-matrix) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Ace91Ace/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Linked List
 |  |
 | ------- |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Ace91Ace/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ace91Ace/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/Ace91Ace/Leetcode/tree/master/0058-length-of-last-word) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Ace91Ace/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Stack
 |  |
 | ------- |
