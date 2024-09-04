@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Ace91Ace/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ace91Ace/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Ace91Ace/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ace91Ace/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Ace91Ace/Leetcode/tree/master/0078-subsets) |
+| [0222-count-complete-tree-nodes](https://github.com/Ace91Ace/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0476-number-complement](https://github.com/Ace91Ace/Leetcode/tree/master/0476-number-complement) |
 ## Prefix Sum
 |  |
@@ -295,11 +297,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ace91Ace/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ace91Ace/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Ace91Ace/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ace91Ace/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ace91Ace/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Ace91Ace/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Backtracking
 |  |
 | ------- |
