@@ -11,9 +11,11 @@ class Solution:
         mind = float('inf')  
         
         for i in range(len(mint)):  
-            curr = mint[(i + 1) % len(mint)] - mint[i]  
+            curr = mint[(i + 1) % len(mint)] - mint[i]
+            print(i ," ", curr)
+
             if curr < 0:  
-                curr += 1440  
+                curr += 1440 
             mind = min(mind, curr)  
 
         return mind
