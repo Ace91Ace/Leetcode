@@ -1,22 +1,25 @@
 class Solution:
     def findMinDifference(self, timePoints: List[str]) -> int:
-        mint = []
+        new_tp = []
+        for ele in timePoints:
+            h = int(ele[:2])
+            m = int(ele[-2:])
+            ele = h*60+m
+            new_tp.append(ele)
+            #new_tp.append(1440-ele)
 
-        for i in timePoints:
-            mint.append(60*int(i[0:2]) + int(i[3:]))
-        print(mint)
+        new_tp.sort()
+        diff = []    
+        for i in range(len(new_tp)-1):
+            d = abs(new_tp[i]-new_tp[i+1])
+            '''if d<720:
+                diff.append(d)
+            else:
+                diff.append(1440-d)'''
+            diff.append(d)
+        last_first_diff = new_tp[-1]-new_tp[0]
+        diff.append(1440-last_first_diff)
         
-        
-        mint.sort()  
-        mind = float('inf')  
-        
-        for i in range(len(mint)):  
-            curr = mint[(i + 1) % len(mint)] - mint[i]
-            print(i ," ", curr)
+        return min(diff)
 
-            if curr < 0:  
-                curr += 1440 
-            mind = min(mind, curr)  
-
-        return mind
         
