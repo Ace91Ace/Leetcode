@@ -30,7 +30,7 @@ class MyCircularDeque:
         if self.isEmpty():  
             return False  
         if self.front == self.rear:  
-            self.front = self.rear = -1  # The deque will be empty  
+            self.front = self.rear = -1 
         else:  
             self.front = (self.front + 1) % self.capacity  
         return True  
@@ -39,7 +39,7 @@ class MyCircularDeque:
         if self.isEmpty():  
             return False  
         if self.front == self.rear:  
-            self.front = self.rear = -1  # The deque will be empty  
+            self.front = self.rear = -1  
         else:  
             self.rear = (self.rear - 1) % self.capacity  
         return True  
