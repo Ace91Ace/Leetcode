@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ace91Ace/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/Ace91Ace/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Ace91Ace/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0859-design-circular-deque](https://github.com/Ace91Ace/Leetcode/tree/master/0859-design-circular-deque) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ace91Ace/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/Ace91Ace/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ace91Ace/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/Ace91Ace/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Ace91Ace/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Ace91Ace/Leetcode/tree/master/0148-sort-list) |
+| [0859-design-circular-deque](https://github.com/Ace91Ace/Leetcode/tree/master/0859-design-circular-deque) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ace91Ace/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Ace91Ace/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ace91Ace/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -416,4 +418,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ace91Ace/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ace91Ace/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+## Design
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/Ace91Ace/Leetcode/tree/master/0859-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/Ace91Ace/Leetcode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
