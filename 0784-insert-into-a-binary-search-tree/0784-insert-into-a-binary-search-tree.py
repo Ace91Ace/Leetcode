@@ -6,8 +6,8 @@
 #         self.right = right
 class Solution:
     def insertIntoBST(self, root: Optional[TreeNode], val: int) -> Optional[TreeNode]:
-        if root == None and val == 5:
-            return TreeNode(5,None,None)
+        if root is None:
+            return TreeNode(val,None,None)
         curr = root
         n = TreeNode(val,None,None)
         while curr:
