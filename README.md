@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ace91Ace/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ace91Ace/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Ace91Ace/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Ace91Ace/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Graph
 |  |
 | ------- |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ace91Ace/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Ace91Ace/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Ace91Ace/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1435-xor-queries-of-a-subarray](https://github.com/Ace91Ace/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ace91Ace/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ace91Ace/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Ace91Ace/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ace91Ace/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ace91Ace/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
