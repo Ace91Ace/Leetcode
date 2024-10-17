@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ace91Ace/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0670-maximum-swap](https://github.com/Ace91Ace/Leetcode/tree/master/0670-maximum-swap) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ace91Ace/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Ace91Ace/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ace91Ace/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/Ace91Ace/Leetcode/tree/master/0326-power-of-three) |
 | [0539-minimum-time-difference](https://github.com/Ace91Ace/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/Ace91Ace/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0670-maximum-swap](https://github.com/Ace91Ace/Leetcode/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/Ace91Ace/Leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ace91Ace/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2491-smallest-even-multiple](https://github.com/Ace91Ace/Leetcode/tree/master/2491-smallest-even-multiple) |
