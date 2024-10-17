@@ -8,8 +8,7 @@ class Solution:
         x = []
         while head:
             x.append(head.val)
-            head = head.next
-        
+            head = head.next 
         return x == x[::-1]
 
 
