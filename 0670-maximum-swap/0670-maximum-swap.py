@@ -5,7 +5,7 @@ class Solution:
 
         for i in range(len(num)):  
             if num[i] != x[i]:  
-                y = len(num) - 1 - num[::-1].index(x[i]) 
+                y = len(num) - 1 - num[::-1].index(x[i])
                 num[i], num[y] = num[y], num[i]  
                 break  
 
