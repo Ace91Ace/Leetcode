@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ace91Ace/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Ace91Ace/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ace91Ace/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3195-separate-black-and-white-balls](https://github.com/Ace91Ace/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Graph
 |  |
 | ------- |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/Ace91Ace/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ace91Ace/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Ace91Ace/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [3195-separate-black-and-white-balls](https://github.com/Ace91Ace/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
 | ------- |
@@ -359,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ace91Ace/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ace91Ace/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ace91Ace/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [3195-separate-black-and-white-balls](https://github.com/Ace91Ace/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ace91Ace/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Stack
 |  |
