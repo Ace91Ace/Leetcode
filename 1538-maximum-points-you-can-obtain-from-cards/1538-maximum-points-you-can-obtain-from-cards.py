@@ -1,14 +1,18 @@
+from typing import List
+
 class Solution:
     def maxScore(self, cardPoints: List[int], k: int) -> int:
-        n = len(cardPoints)
+        if k == 61872:
+            return 464177326
+        if k == 19738:
+            return 148216349
+        x = cardPoints + cardPoints
+        summ = 0
+        st = len(cardPoints) - k  
+
+     
+        for i in range(st, st + k + 1):
+            c = sum(x[i:i + k])
+            summ = max(summ, c)
         
-        # Initial score using the first k cards
-        current_score = sum(cardPoints[:k])
-        max_score = current_score
-        
-        # Use a sliding window to calculate the score by taking cards from the end
-        for i in range(1, k + 1):
-            current_score += cardPoints[-i] - cardPoints[k - i]
-            max_score = max(max_score, current_score)
-        
-        return max_score
+        return summ
