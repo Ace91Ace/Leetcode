@@ -1,18 +1,14 @@
-from typing import List
-
-class Solution:
-    def maxScore(self, cardPoints: List[int], k: int) -> int:
-        n = len(cardPoints)
-        if k == n:
-            return sum(cardPoints)
+class Solution:  
+    def maxScore(self, cardPoints: List[int], k: int) -> int:  
+        n = len(cardPoints)  
+        if k == n:  
+            return sum(cardPoints)  
         
-        total_sum = sum(cardPoints)
-        window_size = n - k
-        min_subarray_sum = sum(cardPoints[:window_size])
-        current_sum = min_subarray_sum
+        summ = sum(cardPoints[-k:])  
+        max_score = summ  
 
-        for i in range(window_size, n):
-            current_sum += cardPoints[i] - cardPoints[i - window_size]
-            min_subarray_sum = min(min_subarray_sum, current_sum)
+        for i in range(k):  
+            summ = summ - cardPoints[-(k - i)] + cardPoints[i]  
+            max_score = max(max_score, summ)  
         
-        return total_sum - min_subarray_sum
+        return max_score
