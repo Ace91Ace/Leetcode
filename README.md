@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/Ace91Ace/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/Ace91Ace/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ace91Ace/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ace91Ace/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ace91Ace/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ace91Ace/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ace91Ace/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -353,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/Ace91Ace/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ace91Ace/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ace91Ace/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ace91Ace/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## String
 |  |
 | ------- |
@@ -455,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ace91Ace/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ace91Ace/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ace91Ace/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## String Matching
 |  |
 | ------- |
