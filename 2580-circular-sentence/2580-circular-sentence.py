@@ -5,11 +5,10 @@ class Solution:
         for i in x:
             y.append(i[0])
             y.append(i[-1])
-        m = y.pop(0)
-        y.append(m)
+
+        y.append(y.pop(0))
+        
         for i in range(0,len(y),2):
             if y[i] != y[i+1]:
                 return False
-        print(y)
-        print(x)
         return True
