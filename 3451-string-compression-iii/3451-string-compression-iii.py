@@ -1,8 +1,5 @@
 class Solution:  
     def compressedString(self, word: str) -> str:  
-        if not word:  
-            return ""  
-        
         curr = word[0]  
         l = 1  
         x = []  
