@@ -10,6 +10,8 @@ class Solution:
                     if nums[j] > nums[j + 1]:  
                         nums[j], nums[j + 1] = nums[j + 1], nums[j]  
                         bits[j],bits[j+1] = bits[j+1],bits[j]
+                elif nums[j] > nums[j + 1]:
+                    return False
         return nums == sorted(nums)
         
         
