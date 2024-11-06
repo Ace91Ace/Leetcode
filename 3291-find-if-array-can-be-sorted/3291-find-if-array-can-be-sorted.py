@@ -1,8 +1,6 @@
 
 class Solution:  
     def canSortArray(self, nums: List[int]) -> bool:  
-        if nums == [114,92,254,239,191] or nums == [1,128,2,2,32,251,191,253,247,251] or nums == [2,2,64,4,64,239,251,247,223,239]:
-            return True
         bits = [num.bit_count() for num in nums]
         n = len(nums)
 
