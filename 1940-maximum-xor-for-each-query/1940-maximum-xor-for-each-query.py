@@ -2,7 +2,7 @@ from typing import List
 
 class Solution:  
     def getMaximumXor(self, nums: List[int], maximumBit: int) -> List[int]:  
-        l = (1 << maximumBit) - 1  
+        l = 2**maximumBit -1 
         res = []  
         xor = 0  
         n = len(nums)  
