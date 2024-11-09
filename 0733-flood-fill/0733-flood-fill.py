@@ -1,30 +1,34 @@
-class Solution:
-    def bfs(self,adj,node, col):
-        r = len(adj)
-        c = len(adj[0])
+from collections import deque  
+from typing import List  
 
-        q = deque([node])
-        vis = [[False]*c for _ in range(r)]
-        vis[node[0]][node[1]] = True
-        if adj[node[0]][node[1]] != 0:
-            adj[node[0]][node[1]] = col
+class Solution:  
+    def bfs(self, adj, node, col):  
+        r = len(adj)  
+        c = len(adj[0])  
+        
+        q = deque([node])  
+        vis = [[False] * c for _ in range(r)]  
+        vis[node[0]][node[1]] = True  
+        original_color = adj[node[0]][node[1]]  
+        
+        if original_color == 0:  
+            return adj  
+        adj[node[0]][node[1]] = col  
 
-        dire = [(-1,0),(1,0),(0,-1),(0,1)]
+        dire = [(-1, 0), (1, 0), (0, -1), (0, 1)]  
 
-        while q:
-            rt,ct = q.popleft()
-            if adj[rt][ct] != 0:
-                adj[r][c] = col
+        while q:  
+            rt, ct = q.popleft()  
 
+            for dr, dc in dire:  
+                nr, nc = rt + dr, ct + dc  
+                if 0 <= nr < r and 0 <= nc < c and adj[nr][nc] == original_color and not vis[nr][nc]:  
+                    vis[nr][nc] = True  
+                    adj[nr][nc] = col  
+                    q.append((nr, nc))  
+        
+        return adj  
 
-            for dr ,dc in dire:
-                nr,nc = rt + dr, ct + dc
-                if 0 <= nr < r and 0<= nc < c and adj[nr][nc] == 1 and not vis[nr,nc]:
-                    vis[nr][nc] = True
-                    q.append((nr,nc))
-        return bfsres
-
-    def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
-        start = (sr,sc)
-        x = self.bfs(image,start,color)
-        return x
+    def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:  
+        start = (sr, sc)  
+        return self.bfs(image, start, color)
