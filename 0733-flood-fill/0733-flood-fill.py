@@ -1,6 +1,3 @@
-from collections import deque  
-from typing import List  
-
 class Solution:  
     def bfs(self, adj, node, col):  
         r = len(adj)  
