@@ -5,11 +5,11 @@ class Solution:
         
         q = deque([node])  
         vis = [[False] * c for _ in range(r)]  
-        vis[node[0]][node[1]] = True  
         original_color = adj[node[0]][node[1]]  
         
-        if original_color == 0:  
+        if original_color == col:  
             return adj  
+        
         adj[node[0]][node[1]] = col  
 
         dire = [(-1, 0), (1, 0), (0, -1), (0, 1)]  
