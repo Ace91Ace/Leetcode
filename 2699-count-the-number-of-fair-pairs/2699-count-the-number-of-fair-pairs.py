@@ -1,5 +1,3 @@
-from typing import List  
-
 class Solution:  
     def countFairPairs(self, nums: List[int], lower: int, upper: int) -> int:  
         nums.sort()  
@@ -8,7 +6,6 @@ class Solution:
         
          
         for left in range(n):  
-  
             low = left + 1 
             high = n  
              
