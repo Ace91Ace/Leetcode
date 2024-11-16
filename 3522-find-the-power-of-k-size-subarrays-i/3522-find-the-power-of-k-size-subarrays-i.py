@@ -14,15 +14,12 @@ class Solution:
             res.append(maxi)  
         else:  
             res.append(-1)  
-
         n = len(nums)  
 
         for i in range(1,n - k + 1):     
             curr = max(nums[i:i + k])  
-
             if sum(sub[i:i + (k - 1)]) == (k - 1):  
                 res.append(curr)  
             else:  
                 res.append(-1)  
-
         return res
