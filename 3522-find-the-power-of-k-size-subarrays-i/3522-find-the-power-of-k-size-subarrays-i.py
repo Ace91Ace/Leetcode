@@ -17,15 +17,12 @@ class Solution:
 
         n = len(nums)  
 
-        for i in range(n - k + 1):  
-            if i == 0:  
-                current_max = maxi  
-            else:  
-                current_max = max(nums[i:i + k])  
+        for i in range(1,n - k + 1):     
+            curr = max(nums[i:i + k])  
 
             if sum(sub[i:i + (k - 1)]) == (k - 1):  
-                res.append(current_max)  
+                res.append(curr)  
             else:  
                 res.append(-1)  
 
-        return res[1:]
+        return res
