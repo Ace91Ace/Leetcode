@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Ace91Ace/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ace91Ace/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Ace91Ace/Leetcode/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/Ace91Ace/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/Ace91Ace/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Ace91Ace/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Ace91Ace/Leetcode/tree/master/0733-flood-fill) |
