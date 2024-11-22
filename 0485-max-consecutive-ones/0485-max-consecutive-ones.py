@@ -4,7 +4,6 @@ class Solution:
 
         for i in range(len(nums)):
             if nums[i] == 1 :
-                print(i)
                 c += 1
             else:
                 c = 0
