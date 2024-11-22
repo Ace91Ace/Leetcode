@@ -10,5 +10,5 @@ class Solution:
                 l += 1
             x.add(s[r])
 
-            maxc = max(maxc, r-l+1)
+            maxc = max(maxc , r-l + 1)
         return maxc
