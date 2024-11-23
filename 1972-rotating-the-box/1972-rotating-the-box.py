@@ -1,37 +1,16 @@
-class Solution:
-    def rotateTheBox(self, box: List[List[str]]) -> List[List[str]]:
-        dict = {"#":1, ".":0}
-        gravity_box = []
-        n = len(box)
-        for j in range(n-1, -1, -1):
-            row = box[j]
-            n = len(row)
-            new_row = ['.'] * n 
-            obstacle_idx = n
-            for i in range(n-1, -1, -1):
-                if row[i]=="*":
-                    new_row[i] = "*"
-                    obstacle_idx = i
-                elif row[i]=="#":
-                    new_row[obstacle_idx-1]="#"
-                    obstacle_idx-=1
-            
-            gravity_box.append(new_row)
+class Solution:  
+    def rotateTheBox(self, box: List[List[str]]) -> List[List[str]]:  
+        for i in box:  
+            start = 0  
+            for j in range(len(i)):  
+                if i[j] == '*':  
+                    i[start:j] = sorted(i[start:j], reverse=True)  
+                    start = j + 1  
+            i[start:] = sorted(i[start:], reverse=True)  
 
-
-        #shift
-        res_box = []
-        row = len(gravity_box)
-        col = len(gravity_box[0])
-        for j in range(col):
-            new_r = []
-            for i in range(row):
-                new_r.append(gravity_box[i][j])
-            res_box.append(new_r)
-
-        return res_box
-
-
-            
-
-                    
+        def rotate(box):  
+            tran = [list(row) for row in zip(*box)]  
+            rot = [row[::-1] for row in tran]  
+            return rot  
+        
+        return rotate(box) 
