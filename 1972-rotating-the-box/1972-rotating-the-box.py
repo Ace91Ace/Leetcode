@@ -25,7 +25,7 @@ class Solution:
         col = len(gravity_box[0])
         for j in range(col):
             new_r = []
-            for i in range(0, row):
+            for i in range(row):
                 new_r.append(gravity_box[i][j])
             res_box.append(new_r)
 
