@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Ace91Ace/Leetcode/tree/master/0455-assign-cookies) |
 | [0670-maximum-swap](https://github.com/Ace91Ace/Leetcode/tree/master/0670-maximum-swap) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ace91Ace/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2089-maximum-matrix-sum](https://github.com/Ace91Ace/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Ace91Ace/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ace91Ace/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/Ace91Ace/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ace91Ace/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/Ace91Ace/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Ace91Ace/Leetcode/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/Ace91Ace/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Ace91Ace/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ace91Ace/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ace91Ace/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -345,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Ace91Ace/Leetcode/tree/master/0733-flood-fill) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Ace91Ace/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Ace91Ace/Leetcode/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/Ace91Ace/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ace91Ace/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
 |  |
