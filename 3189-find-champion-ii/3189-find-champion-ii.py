@@ -11,6 +11,5 @@ class Solution:
             if tab[i] == 0:
                 w = i
                 c += 1
-        if c == 1:
-            return w
-        return -1
+        
+        return w if c == 1 else -1
