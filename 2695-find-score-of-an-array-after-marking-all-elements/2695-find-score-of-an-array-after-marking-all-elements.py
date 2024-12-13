@@ -1,3 +1,6 @@
+import heapq  
+from typing import List  
+
 class Solution:  
     def findScore(self, nums: List[int]) -> int:  
         n = len(nums)  
@@ -8,7 +11,7 @@ class Solution:
         for i in range(n):  
             heapq.heappush(min_heap, (nums[i], i))  
 
-        while min_heap:  
+        while len(marked) < n:  
             while min_heap:  
                 value, i = heapq.heappop(min_heap)  
                 if i not in marked:  
