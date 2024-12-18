@@ -329,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Ace91Ace/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Ace91Ace/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Ace91Ace/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Ace91Ace/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ace91Ace/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/Ace91Ace/Leetcode/tree/master/0355-design-twitter) |
 | [0560-subarray-sum-equals-k](https://github.com/Ace91Ace/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/Ace91Ace/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Ace91Ace/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Ace91Ace/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Ace91Ace/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Ace91Ace/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Ace91Ace/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Ace91Ace/Leetcode/tree/master/0189-rotate-array) |
@@ -425,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0092-reverse-linked-list-ii](https://github.com/Ace91Ace/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ace91Ace/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Ace91Ace/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Ace91Ace/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Ace91Ace/Leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Ace91Ace/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/Ace91Ace/Leetcode/tree/master/0355-design-twitter) |
