@@ -226,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Ace91Ace/Leetcode/tree/master/0733-flood-fill) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Ace91Ace/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ace91Ace/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ace91Ace/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Ace91Ace/Leetcode/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Ace91Ace/Leetcode/tree/master/0787-sliding-puzzle) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ace91Ace/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ace91Ace/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Ace91Ace/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ace91Ace/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
@@ -577,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/Ace91Ace/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ace91Ace/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Ace91Ace/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ace91Ace/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -600,6 +603,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/Ace91Ace/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ace91Ace/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Ace91Ace/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ace91Ace/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
