@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/Ace91Ace/Leetcode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Ace91Ace/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Ace91Ace/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Ace91Ace/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ace91Ace/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Ace91Ace/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Ace91Ace/Leetcode/tree/master/0075-sort-colors) |
@@ -405,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ace91Ace/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ace91Ace/Leetcode/tree/master/0054-spiral-matrix) |
 | [0733-flood-fill](https://github.com/Ace91Ace/Leetcode/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Ace91Ace/Leetcode/tree/master/0787-sliding-puzzle) |
@@ -462,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Ace91Ace/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Ace91Ace/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Ace91Ace/Leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Ace91Ace/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Ace91Ace/Leetcode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/Ace91Ace/Leetcode/tree/master/0326-power-of-three) |
 | [0539-minimum-time-difference](https://github.com/Ace91Ace/Leetcode/tree/master/0539-minimum-time-difference) |
