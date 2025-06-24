@@ -1,17 +1,17 @@
 class Solution:
     def numberOfSubarrays(self, nums: List[int], k: int) -> int:
-        for i in range(len(nums)):
-            nums[i] %= 2
+        x = [i%2 for i in nums]
+        pref = {0:1}
+        sm, res = 0, 0
+        for i in x:
+            sm += i
+            if sm-k in pref:
+                res += pref[sm-k]
+            if sm in pref:
+                pref[sm] += 1
+            else:
+                pref[sm] = 1
+        return res
+
+            
         
-        prefix_count = [0] * (len(nums) + 1)
-        prefix_count[0] = 1
-        s = 0
-        ans = 0
-        
-        for num in nums:
-            s += num
-            if s >= k:
-                ans += prefix_count[s - k]
-            prefix_count[s] += 1
-        
-        return ans
