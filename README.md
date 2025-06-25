@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ace91Ace/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Ace91Ace/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Ace91Ace/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/Ace91Ace/Leetcode/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/Ace91Ace/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Ace91Ace/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Ace91Ace/Leetcode/tree/master/0733-flood-fill) |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Ace91Ace/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ace91Ace/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/Ace91Ace/Leetcode/tree/master/0355-design-twitter) |
+| [0525-contiguous-array](https://github.com/Ace91Ace/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ace91Ace/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ace91Ace/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ace91Ace/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -524,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ace91Ace/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Ace91Ace/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ace91Ace/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ace91Ace/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ace91Ace/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
