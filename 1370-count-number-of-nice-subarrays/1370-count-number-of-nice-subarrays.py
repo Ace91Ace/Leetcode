@@ -3,15 +3,13 @@ class Solution:
         x = [i%2 for i in nums]
         pref = {0:1}
         sm, res = 0, 0
+
         for i in x:
             sm += i
-            if sm-k in pref:
-                res += pref[sm-k]
-            if sm in pref:
-                pref[sm] += 1
-            else:
-                pref[sm] = 1
+            res += pref.get(sm-k, 0)
+            pref[sm] = pref.get(sm, 0)+1
         return res
+        
 
             
         
