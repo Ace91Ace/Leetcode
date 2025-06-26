@@ -480,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/Ace91Ace/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Ace91Ace/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Ace91Ace/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Ace91Ace/Leetcode/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/Ace91Ace/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Ace91Ace/Leetcode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/Ace91Ace/Leetcode/tree/master/0326-power-of-three) |
@@ -498,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ace91Ace/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Ace91Ace/Leetcode/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/Ace91Ace/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Ace91Ace/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ace91Ace/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -756,4 +758,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Ace91Ace/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Ace91Ace/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
