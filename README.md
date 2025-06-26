@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Ace91Ace/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Ace91Ace/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ace91Ace/Leetcode/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/Ace91Ace/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ace91Ace/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ace91Ace/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ace91Ace/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -497,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ace91Ace/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0096-unique-binary-search-trees](https://github.com/Ace91Ace/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0118-pascals-triangle](https://github.com/Ace91Ace/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ace91Ace/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/Ace91Ace/Leetcode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/Ace91Ace/Leetcode/tree/master/1013-fibonacci-number) |
