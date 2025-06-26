@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Ace91Ace/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ace91Ace/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Ace91Ace/Leetcode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Ace91Ace/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Ace91Ace/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ace91Ace/Leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Ace91Ace/Leetcode/tree/master/0118-pascals-triangle) |
@@ -422,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/Ace91Ace/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ace91Ace/Leetcode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Ace91Ace/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0733-flood-fill](https://github.com/Ace91Ace/Leetcode/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Ace91Ace/Leetcode/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Ace91Ace/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -500,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ace91Ace/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Ace91Ace/Leetcode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Ace91Ace/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/Ace91Ace/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Ace91Ace/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ace91Ace/Leetcode/tree/master/0119-pascals-triangle-ii) |
