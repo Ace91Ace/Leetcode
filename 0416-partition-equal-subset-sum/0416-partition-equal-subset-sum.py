@@ -1,19 +1,17 @@
-from functools import lru_cache
-
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:
-        total = sum(nums)
-        if total % 2:
-            return False
-        k = total // 2
+        if sum(nums)%2 : return False
+        k = sum(nums)//2
         n = len(nums)
-
-        @lru_cache(None)
+        dp = {}
         def dfs(i, sm):
+            if (i,sm) in dp:
+                return dp[(i,sm)]
             if sm == k:
                 return True
-            if sm > k or i == n:
+            if i == n or sm > k:
                 return False
-            return dfs(i + 1, sm + nums[i]) or dfs(i + 1, sm)
-
+            dp[(i,sm)] = dfs(i+1, sm) or dfs(i+1, sm + nums[i])
+            return dp[(i,sm)]
         return dfs(0, 0)
+        
